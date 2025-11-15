@@ -81,4 +81,4 @@ Se você tiver o Apache Ant instalado e configurado em seu PATH, você pode comp
 
 ## 👥 Equipe
 
-Este projeto foi desenvolvido por Ayumi, Francisco e Gideão durante o 2º ano do ensino médio em informática no IFAM em 2019.
+Este projeto foi desenvolvido por Ayumi, Francisco e Gideão durante o 2º ano do ensino médio técnico em informática no IFAM em 2019.
